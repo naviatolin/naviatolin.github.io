@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/analog_multiplier/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/asl_detection/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/assembly_dinosaur_game/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/topics_in_bioengineering/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/boats/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/uocd/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/differential_drive/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/autem/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/just_dance/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/poe/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/twitter_scraping/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/single_cycle_cpu/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/vlsi_project/</loc>
+  </url>
+  
+</urlset>
