@@ -3,7 +3,3 @@ languageCode = "en-us"
 title = "Pranavi Boyalakuntla"
 
 theme = "dimension"
-
-[[params.navlinks]]
-  name = "Projects"
-  url = "projects/"
