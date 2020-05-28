@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Pranavi Boyalakuntla</title>
-    <link>http://pranavi-boyalakuntla.com/categories/</link>
+    <link>https://pranavi-boyalakuntla.com/categories/</link>
     <description>Recent content in Categories on Pranavi Boyalakuntla</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://pranavi-boyalakuntla.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pranavi-boyalakuntla.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
