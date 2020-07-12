@@ -50,14 +50,14 @@
                                 <article id="{{ .Title | urlize }}">
                                     <span class="image-main"><img src="{{ .Params.galleryimage }}" alt="" />
                                         <form>
-                                            <button formaction="{{ .Params.learnmore }}" formtarget="_blank" > Read More
+                                            <button formaction="{{ .Params.learnmore }}" formtarget="_blank" > Project Link
                                                 
                                             </button>
                                           </form>
                                     </span>
                                     <div class = "text-side">
                                     <h2 class="major">{{ .Title }}</h2>
-                                    <div class = "content"> {{ .Content }} </div> 
+                                    <div class = "content"> {{ .Content }}</div> 
                                 </div>
                                 </article>
                             {{ end }}
