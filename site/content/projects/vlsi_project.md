@@ -1,6 +1,6 @@
 ---
 title: VLSI Circuit Optimization Using Discrete Math
-key: 5
+key: 8
 galleryimage: "/./img/vlsi.png"
 learnmore: "https://github.com/naviatolin/Project_Papers/blob/master/Optimizing_Circuits_Discrete_Math/Optimizing_Circuits_Paper.pdf"
 ---

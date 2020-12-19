@@ -111,6 +111,15 @@ To watch a video of this in action: https://www.</description>
     </item>
     
     <item>
+      <title>Microcontrollers</title>
+      <link>https://pranavi-boyalakuntla.com/projects/microcontrollers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pranavi-boyalakuntla.com/projects/microcontrollers/</guid>
+      <description>With the rising popularity of lifestyle video games and lack of game consoles on the market during this pandemic, I created a USB powered game controller that could interface with the popular game: Stardew Valley. This project was made as a part of a project-based microcontrollers class offered in the fall of 2020. This was a semester long class where I exercised and grew my skills in KiCAD to iteratively design schematics, layout PCBs, electrical and firmware system design, and part sourcing.</description>
+    </item>
+    
+    <item>
       <title>Not Just Dance</title>
       <link>https://pranavi-boyalakuntla.com/projects/just_dance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

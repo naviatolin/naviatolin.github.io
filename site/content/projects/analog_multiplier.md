@@ -1,6 +1,6 @@
 ---
 title: Analog Multiplier
-key: 2
+key: 12
 galleryimage: "/./img/analog-multiplier.png"
 learnmore: "https://github.com/naviatolin/Circuits-Spring2020/blob/master/Final.%20Analog%204-Bit%20Multiplier%20with%20CMOS/An_Analog_Four-Bit_Multiplier_Using_CMOS_Transistors.pdf"
 ---

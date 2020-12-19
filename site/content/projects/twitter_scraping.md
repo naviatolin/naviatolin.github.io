@@ -1,6 +1,6 @@
 ---
 title: Political Candidate Summaries From Twitter
-key: 10
+key: 4
 galleryimage: "/./img/text-mining.jpg"
 learnmore: "https://github.com/sd19fall/TextMining-naviatolin"
 ---

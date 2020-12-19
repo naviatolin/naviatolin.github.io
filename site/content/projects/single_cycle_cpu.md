@@ -1,6 +1,6 @@
 ---
 title: Single Cycle CPU
-key: 6
+key: 8
 galleryimage: "/./img/single-cycle-cpu.png"
 learnmore: "https://github.com/naviatolin/Single_Cycle_CPU_Lab/blob/master/Single%20Cycle%20CPU.md"
 ---

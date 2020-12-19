@@ -1,6 +1,6 @@
 ---
 title: ASL Translation Using Computer Vision
-key: 9
+key: 5
 galleryimage: "/./img/asl.jpg"
 learnmore: "https://github.com/naviatolin/Project_Papers/blob/master/ASL_Detection/ASL%20Detection%20Paper%20Final.pdf"
 ---

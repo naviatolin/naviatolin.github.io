@@ -1,6 +1,6 @@
 ---
 title: Not Just Dance
-key: 12
+key: 2
 galleryimage: "/./img/notjustdance.png"
 learnmore: "https://sites.google.com/view/notjustdance/"
 ---

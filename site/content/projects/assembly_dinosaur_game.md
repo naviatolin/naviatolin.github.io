@@ -1,6 +1,6 @@
 ---
 title: Assembly Chrome Dinosaur Game
-key: 1
+key: 13
 galleryimage: "/./img/dino-game.png"
 learnmore: "https://github.com/naviatolin/Jumping-Dino-MIPS/blob/master/MIPS%20Game%20Jumping%20Dinosaur.md"
 ---

@@ -22,7 +22,7 @@
                     </div>
                     <nav>
                         <ul>
-                            {{ range .Pages.ByParam "key" }}
+                            {{ range (.Pages.ByParam "key").Reverse }}
                                 {{if .Title }}
                                     {{if .Content}}
                                         <li><a href="#{{ .Title | urlize }}">

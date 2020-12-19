@@ -1,6 +1,6 @@
 ---
 title: BCI Spatial Filtering Algorithms
-key: 8
+key: 6
 galleryimage: "/./img/braings.png"
 learnmore: "https://github.com/naviatolin/Project_Papers/tree/master/BCI_Spatial_Filtering_Algorithms"
 ---
