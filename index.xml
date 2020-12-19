@@ -72,6 +72,15 @@ To read the full report and explanation of the math behind it, click the link on
     </item>
     
     <item>
+      <title>Complete Communications System Modeling Using BPSK</title>
+      <link>https://pranavi-boyalakuntla.com/projects/bpsk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pranavi-boyalakuntla.com/projects/bpsk/</guid>
+      <description>In this paper, we leveraged introductory-level skills in analog-digital communication (ADC) to design an end-to-end communication system in Simulink. The Simulink model of the system was used to then select appropriate physical components and understand a potential hardware implementation. The ADC system model was designed to use Binary Phase Shift Keying (BPSK) as the modulation scheme and optimized to fit within a handful of real-world constraints including power limitations, transmission rate, error rate, and availability of components for the hardware implementation.</description>
+    </item>
+    
+    <item>
       <title>contact</title>
       <link>https://pranavi-boyalakuntla.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
