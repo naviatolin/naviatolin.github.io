@@ -1,9 +1,6 @@
----
-title: about
-image: "/img/duck.png"
----
-Hello! I am Navi, a current junior electrical and computer engineer at the Olin College of Engineering. I am interested in the intersection of business and electrical systems design. 
-
-I have experience in schematic capture, PCB layout design, writing firmware, digital logic design in Verilog, and ADC systems design - and hoping to gain more experience in silicon design and wireless communications. 
-
-Satellites and communication systems are really awesome - so I joined a research lab at Olin College to help build an open source EPFD model for NGSO satellites to help verify interference metrics! :)
+Embedded platforms engineer interested in the intersection of **hardware**, **software**, and **wireless communications systems**.
+* EE+CS at [Olin College of Engineering](http://olin.edu) Class of '22
+* Incoming M.S. EE Candidate at [Stanford University](http://stanford.edu)
+* Research lead in the NSF-Funded [OSSTP Group](https://www.osstp.org)
+* Clare Boothe Luce + Massachusetts Space Grant recipient
+* Founding partner of the student-led venture capital firm [248 Builders](https://www.248builders.vc)

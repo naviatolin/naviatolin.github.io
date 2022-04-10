@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MATLAB, SVD, PCA on Pranavi Boyalakuntla</title>
+    <link>http://pranavi-boyalakuntla.com/tags/matlab-svd-pca/</link>
+    <description>Recent content in MATLAB, SVD, PCA on Pranavi Boyalakuntla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://pranavi-boyalakuntla.com/tags/matlab-svd-pca/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ASL Detection</title>
+      <link>http://pranavi-boyalakuntla.com/projects/asl_detection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pranavi-boyalakuntla.com/projects/asl_detection/</guid>
+      <description>I implemented SVD and PCA to translate sign language letters using a large training data set. The algorithm was written to allow the user to type in a word. Then, it picks a random image of each letter, translates those images, and outputs the final word. (Full Paper)</description>
+    </item>
+    
+  </channel>
+</rss>

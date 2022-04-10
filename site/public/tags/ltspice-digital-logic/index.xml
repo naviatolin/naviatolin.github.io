@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LTSpice, Digital Logic on Pranavi Boyalakuntla</title>
+    <link>http://pranavi-boyalakuntla.com/tags/ltspice-digital-logic/</link>
+    <description>Recent content in LTSpice, Digital Logic on Pranavi Boyalakuntla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://pranavi-boyalakuntla.com/tags/ltspice-digital-logic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analog Multiplier</title>
+      <link>http://pranavi-boyalakuntla.com/projects/analog_multiplier/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://pranavi-boyalakuntla.com/projects/analog_multiplier/</guid>
+      <description>I designed and implemented a 4-bit multiplier using CMOS transistors in LTSpice. As a part of this project, tests for different logic gates and the multiplicities of the nMOS and pMOS transistors were optimized to ensure that the gates were outputting strong logical highs and lows.
+These logic gates were used to construct a 1-bit full adder, a 4-bit full adder, and then a 4-bit multiplier. The voltage transfer characteristics and propogation delays at each step were calculated to estimate the fastest clock speed possible for the system.</description>
+    </item>
+    
+  </channel>
+</rss>

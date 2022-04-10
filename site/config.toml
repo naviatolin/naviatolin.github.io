@@ -1,5 +1,20 @@
-baseURL = "https://pranavi-boyalakuntla.com"
+baseURL = "http://pranavi-boyalakuntla.com/"
 languageCode = "en-us"
 title = "Pranavi Boyalakuntla"
+theme = "hugo-theme-console"
 
-theme = "dimension"
+  [[params.navlinks]]
+  name = "projects/"
+  url = "projects/"
+  
+  [[params.navlinks]]
+  name = "blog/"
+  url = "blog/"
+
+  [[params.navlinks]]
+  name = "resume/"
+  url = "resume/"
+
+  [[params.navlinks]]
+  name = "contact/"
+  url = "contact/"

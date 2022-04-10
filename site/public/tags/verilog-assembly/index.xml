@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Verilog, Assembly on Pranavi Boyalakuntla</title>
+    <link>http://pranavi-boyalakuntla.com/tags/verilog-assembly/</link>
+    <description>Recent content in Verilog, Assembly on Pranavi Boyalakuntla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://pranavi-boyalakuntla.com/tags/verilog-assembly/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Single Cycle CPU Design and Implementation</title>
+      <link>http://pranavi-boyalakuntla.com/projects/cpu/</link>
+      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://pranavi-boyalakuntla.com/projects/cpu/</guid>
+      <description>I designed and implemented a MIPS compliant single cycle CPU. It used a 32-bit architecture. This CPU is capable of completing the following assembly commands:
+ load word store word add add immediate subtract set less than xor immediate jump register jump and link jump branch equal branch not equal  I worked on this project individually over the course of 2 weeks as a part of the computer architecture class.</description>
+    </item>
+    
+  </channel>
+</rss>
