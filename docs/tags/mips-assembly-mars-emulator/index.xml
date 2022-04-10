@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MIPS Assembly, MARS Emulator on Pranavi Boyalakuntla</title>
+    <link>http://pranavi-boyalakuntla.com/tags/mips-assembly-mars-emulator/</link>
+    <description>Recent content in MIPS Assembly, MARS Emulator on Pranavi Boyalakuntla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://pranavi-boyalakuntla.com/tags/mips-assembly-mars-emulator/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Assembly Chrome Dinosaur Game</title>
+      <link>http://pranavi-boyalakuntla.com/projects/assembly_chrome_dinosaur/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://pranavi-boyalakuntla.com/projects/assembly_chrome_dinosaur/</guid>
+      <description>I designed and built a preliminary version of a game inspired by the chrome dinosaur game written in MIPS assembly. The entire game can be exported to 32-bit binary instructions that can be run on the single cycle cpu built in verilog as a part of another project.
+The functionality the game holds is:
+ user jumps over cacti using the keyboard game ends if user comes into contact with cactus speed of cactus generation increases with play time  (Full Paper)</description>
+    </item>
+    
+  </channel>
+</rss>
