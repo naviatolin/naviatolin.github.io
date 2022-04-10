@@ -1,0 +1,5 @@
+baseURL = "https://pranavi-boyalakuntla.com"
+languageCode = "en-us"
+title = "Pranavi Boyalakuntla"
+
+theme = "dimension"

@@ -1,0 +1,82 @@
+{{ partial "header.html" . }}
+
+<body class="is-preload">
+
+    <!-- Wrapper -->
+        <div id="wrapper">
+
+            <!-- Header -->
+                <header id="header">
+                    <div class="logo">
+                        <a href="/"><span class="prof"> <img src="{{ .Params.profimage }}" alt="" /> <op> Home </op> </span>  </a>
+                    </div>
+                    <div class="content">
+                        <div class="inner">
+                            <h1>{{ .Title | default "Title" }}</h1>
+                            {{ if .Params.description }}
+                            <p>
+                                {{ .Params.description }}
+                            </p>
+                            {{ end }}
+                        </div>
+                    </div>
+                    <nav>
+                        <ul>
+                            {{ range .Pages.ByDate }}
+                                {{if .Title }}
+                                    {{if .Content}}
+                                        <li><a href="#{{ .Title | urlize }}">{{ .Title }}</a></li>
+                                    {{ else }}
+                                        {{ if .Params.link }}
+                                            <li><a href= "{{ .Params.link | urlize }}"> {{ .Title }}</a></li>
+                                        {{ else }}
+                                            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                                        {{ end }}
+                                    {{ end }}
+                                {{ end }}
+                            {{ end }}
+                        </ul>
+                    </nav>
+                </header>
+
+            <!-- Main -->
+                <div id="main">
+
+                    {{ range .Pages }}
+                        {{if .Title }}
+                            {{if .Content }}
+                            <article id="{{ .Title | urlize }}">
+                                <span class="image-main"><img src="{{ .Params.image }}" alt="" /></span>
+                                    <h2 class="major">{{ .Title }}</h2>
+                                    {{ .Content }}
+                                    
+                                    {{if .Params.github }}
+                                        <form>
+                                            <button class= "github" formaction="{{ .Params.github }}" formtarget="_blank" > 
+                                                <github> </github>
+                                            </button>
+
+                                            <button class = "linkedin" formaction="{{ .Params.linkedin }}" formtarget="_blank" >
+                                            </button>
+
+                                            <button class = "email" formaction="{{ .Params.email }}" formtarget="_blank" > 
+                                            </button>
+                                        </form>
+                                    {{ end }}
+                                </article>
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+
+                </div>
+
+                {{ partial "design.html" .}}
+
+        </div>
+
+    <!-- BG -->
+    <div id="bg"></div>
+
+</body>
+
+{{ partial "footer.html" .}}
