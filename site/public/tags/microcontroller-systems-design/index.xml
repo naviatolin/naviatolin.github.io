@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microcontroller, Systems Design on Pranavi Boyalakuntla</title>
+    <link>https://pranavi.space/tags/microcontroller-systems-design/</link>
+    <description>Recent content in Microcontroller, Systems Design on Pranavi Boyalakuntla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pranavi.space/tags/microcontroller-systems-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Game Controller Design</title>
+      <link>https://pranavi.space/projects/microcontrollers/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pranavi.space/projects/microcontrollers/</guid>
+      <description>With the rising popularity of lifestyle video games and lack of game consoles on the market during this pandemic, I created a USB powered game controller that could interface with the popular game: Stardew Valley. This project was made as a part of a project-based microcontrollers class offered in the fall of 2020. This was a semester long class where I exercised and grew my skills in KiCAD to iteratively design schematics, layout PCBs, electrical and firmware system design, and part sourcing.</description>
+    </item>
+    
+  </channel>
+</rss>

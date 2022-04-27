@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MATLAB, MIMO on Pranavi Boyalakuntla</title>
+    <link>https://pranavi.space/tags/matlab-mimo/</link>
+    <description>Recent content in MATLAB, MIMO on Pranavi Boyalakuntla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pranavi.space/tags/matlab-mimo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>4x4 MIMO Receiver Implementations</title>
+      <link>https://pranavi.space/projects/mimo4/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pranavi.space/projects/mimo4/</guid>
+      <description>I implemented two receivers for a 4x4 MIMO system.
+ The system knows the channel properties The system does not know the channel properties.  The two receivers I implemented are the: MMSE decoder and the Singular Value Decomposition (SVD) algrithm in MATLAB. These systems were done in simulation with a provided simulated channel.
+(Full Paper)</description>
+    </item>
+    
+    <item>
+      <title>2x2 MIMO Receiver Implementations</title>
+      <link>https://pranavi.space/projects/mimo2/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pranavi.space/projects/mimo2/</guid>
+      <description>I implemented two receivers for a 2x2 MIMO system: zero-forcing receiver, MMSE decoder in MATLAB. These systems were done in simulation with a provided simulated channel.
+(Full Paper)</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python, Software Design on Pranavi Boyalakuntla</title>
+    <link>https://pranavi.space/tags/python-software-design/</link>
+    <description>Recent content in Python, Software Design on Pranavi Boyalakuntla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pranavi.space/tags/python-software-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mental Health Conscious Scheduling Application</title>
+      <link>https://pranavi.space/projects/autem/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pranavi.space/projects/autem/</guid>
+      <description>Many college students and people in the workforce are pushing themselves in this never ending rat race which can be a huge detriment to their mental health. Olin likes to use the term &amp;ldquo;overscoping your life&amp;rdquo; to describe this phenomenon. This application aims to help people avoid this by using the premise that people are actually more likely to be productive when they take breaks and complete activities that make themselves happy.</description>
+    </item>
+    
+  </channel>
+</rss>

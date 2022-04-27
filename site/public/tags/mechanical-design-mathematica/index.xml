@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mechanical Design, Mathematica on Pranavi Boyalakuntla</title>
+    <link>https://pranavi.space/tags/mechanical-design-mathematica/</link>
+    <description>Recent content in Mechanical Design, Mathematica on Pranavi Boyalakuntla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pranavi.space/tags/mechanical-design-mathematica/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Boat Design For Specific Angle of Vanishing Stability</title>
+      <link>https://pranavi.space/projects/boats/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pranavi.space/projects/boats/</guid>
+      <description>I designed a mathematically defined boat to calculate its angle of vanishing stability. This project involved CAD for designing the physical ribs of the boats, laser cutting, shrink wrapping, and mechanical testing. All calculations were done in mathematica and CAD models were created using SolidWorks. (Full Paper)</description>
+    </item>
+    
+  </channel>
+</rss>
