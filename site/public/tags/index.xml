@@ -2,176 +2,179 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Pranavi Boyalakuntla</title>
-    <link>https://pranavi.space/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Pranavi Boyalakuntla</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://pranavi.space/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Compression, Testing</title>
+      <link>http://localhost:1313/tags/data-compression-testing/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/data-compression-testing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>C&#43;&#43;, Active Noise Cancellation</title>
+      <link>http://localhost:1313/tags/c&#43;&#43;-active-noise-cancellation/</link>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/c&#43;&#43;-active-noise-cancellation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transfer Learning, Tactile Sensing</title>
+      <link>http://localhost:1313/tags/transfer-learning-tactile-sensing/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/transfer-learning-tactile-sensing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cybersecurity, Twitter</title>
+      <link>http://localhost:1313/tags/cybersecurity-twitter/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cybersecurity-twitter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IoT, Networks</title>
+      <link>http://localhost:1313/tags/iot-networks/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/iot-networks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python, Networking</title>
+      <link>http://localhost:1313/tags/python-networking/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/python-networking/</guid>
+      <description></description>
+    </item>
     <item>
       <title>SDR, OFDM</title>
-      <link>https://pranavi.space/tags/sdr-ofdm/</link>
+      <link>http://localhost:1313/tags/sdr-ofdm/</link>
       <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/tags/sdr-ofdm/</guid>
+      <guid>http://localhost:1313/tags/sdr-ofdm/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>C, Virtual Machine</title>
-      <link>https://pranavi.space/tags/c-virtual-machine/</link>
+      <link>http://localhost:1313/tags/c-virtual-machine/</link>
       <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/tags/c-virtual-machine/</guid>
+      <guid>http://localhost:1313/tags/c-virtual-machine/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MATLAB, MIMO</title>
-      <link>https://pranavi.space/tags/matlab-mimo/</link>
+      <link>http://localhost:1313/tags/matlab-mimo/</link>
       <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/tags/matlab-mimo/</guid>
+      <guid>http://localhost:1313/tags/matlab-mimo/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MATLAB Simulink, Communications Systems</title>
-      <link>https://pranavi.space/tags/matlab-simulink-communications-systems/</link>
+      <link>http://localhost:1313/tags/matlab-simulink-communications-systems/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/tags/matlab-simulink-communications-systems/</guid>
+      <guid>http://localhost:1313/tags/matlab-simulink-communications-systems/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Microcontroller, Systems Design</title>
-      <link>https://pranavi.space/tags/microcontroller-systems-design/</link>
+      <link>http://localhost:1313/tags/microcontroller-systems-design/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/tags/microcontroller-systems-design/</guid>
+      <guid>http://localhost:1313/tags/microcontroller-systems-design/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>LTSpice, Digital Logic</title>
-      <link>https://pranavi.space/tags/ltspice-digital-logic/</link>
+      <link>http://localhost:1313/tags/ltspice-digital-logic/</link>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/tags/ltspice-digital-logic/</guid>
+      <guid>http://localhost:1313/tags/ltspice-digital-logic/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>User Oriented Design, User Interviewing</title>
-      <link>https://pranavi.space/tags/user-oriented-design-user-interviewing/</link>
+      <link>http://localhost:1313/tags/user-oriented-design-user-interviewing/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/tags/user-oriented-design-user-interviewing/</guid>
+      <guid>http://localhost:1313/tags/user-oriented-design-user-interviewing/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Verilog, Assembly</title>
-      <link>https://pranavi.space/tags/verilog-assembly/</link>
+      <link>http://localhost:1313/tags/verilog-assembly/</link>
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/tags/verilog-assembly/</guid>
+      <guid>http://localhost:1313/tags/verilog-assembly/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Systems Design, Project Management</title>
-      <link>https://pranavi.space/tags/systems-design-project-management/</link>
+      <link>http://localhost:1313/tags/systems-design-project-management/</link>
       <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/tags/systems-design-project-management/</guid>
+      <guid>http://localhost:1313/tags/systems-design-project-management/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Digital Logic, Discrete Math</title>
-      <link>https://pranavi.space/tags/digital-logic-discrete-math/</link>
+      <link>http://localhost:1313/tags/digital-logic-discrete-math/</link>
       <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/tags/digital-logic-discrete-math/</guid>
+      <guid>http://localhost:1313/tags/digital-logic-discrete-math/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Python, Software Design</title>
-      <link>https://pranavi.space/tags/python-software-design/</link>
+      <link>http://localhost:1313/tags/python-software-design/</link>
       <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/tags/python-software-design/</guid>
+      <guid>http://localhost:1313/tags/python-software-design/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MIPS Assembly, MARS Emulator</title>
-      <link>https://pranavi.space/tags/mips-assembly-mars-emulator/</link>
+      <link>http://localhost:1313/tags/mips-assembly-mars-emulator/</link>
       <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/tags/mips-assembly-mars-emulator/</guid>
+      <guid>http://localhost:1313/tags/mips-assembly-mars-emulator/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Python, Web Scraping</title>
-      <link>https://pranavi.space/tags/python-web-scraping/</link>
+      <link>http://localhost:1313/tags/python-web-scraping/</link>
       <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/tags/python-web-scraping/</guid>
+      <guid>http://localhost:1313/tags/python-web-scraping/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Signal Processing, MATLAB</title>
-      <link>https://pranavi.space/tags/signal-processing-matlab/</link>
+      <link>http://localhost:1313/tags/signal-processing-matlab/</link>
       <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/tags/signal-processing-matlab/</guid>
+      <guid>http://localhost:1313/tags/signal-processing-matlab/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Signal Processing, BCI</title>
-      <link>https://pranavi.space/tags/signal-processing-bci/</link>
+      <link>http://localhost:1313/tags/signal-processing-bci/</link>
       <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/tags/signal-processing-bci/</guid>
+      <guid>http://localhost:1313/tags/signal-processing-bci/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MATLAB, Robotics</title>
-      <link>https://pranavi.space/tags/matlab-robotics/</link>
+      <link>http://localhost:1313/tags/matlab-robotics/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/tags/matlab-robotics/</guid>
+      <guid>http://localhost:1313/tags/matlab-robotics/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Mechanical Design, Mathematica</title>
-      <link>https://pranavi.space/tags/mechanical-design-mathematica/</link>
+      <link>http://localhost:1313/tags/mechanical-design-mathematica/</link>
       <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/tags/mechanical-design-mathematica/</guid>
+      <guid>http://localhost:1313/tags/mechanical-design-mathematica/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MATLAB, SVD, PCA</title>
-      <link>https://pranavi.space/tags/matlab-svd-pca/</link>
+      <link>http://localhost:1313/tags/matlab-svd-pca/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/tags/matlab-svd-pca/</guid>
+      <guid>http://localhost:1313/tags/matlab-svd-pca/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

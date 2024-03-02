@@ -2,219 +2,200 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pranavi Boyalakuntla</title>
-    <link>https://pranavi.space/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Pranavi Boyalakuntla</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://pranavi.space/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LZ77 Optimization and Testing</title>
+      <link>http://localhost:1313/projects/data_compression/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/data_compression/</guid>
+      <description>We optimized the LZ77 implementation on SCL. LZ77 is the basis for some of the most widely used compressors (gzip, zstd), but the current implementation on SCL does not use repcodes and uses Huffman coding for entropy coding. We believe with the addition of a basic repcode and by changing the entropy coding to rANS, tANS, or Arithmetic coding we will see an improved data compression rate. The following variations of the LZ77 compressor will be implemented: original SCL implementation, variation with rANS coding, variation with tANS coding, variation with Arithmetic coding, variation with repcodes, variation with repcodes and rANS coding, variation with repcodes and tANS coding, and variation with repcodes and Arithmetic coding.</description>
+    </item>
+    <item>
+      <title>Active Noise Cancellation on Iphone App</title>
+      <link>http://localhost:1313/projects/active_noise_cancellation_iphone/</link>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/active_noise_cancellation_iphone/</guid>
+      <description>In this project, we implemented real-time Active Noise Cancellation for Apple devices using time domain adaptive filters. I worked in a team of 3 people to implement this project.&#xA;(Code) </description>
+    </item>
+    <item>
+      <title>Object Classification with Tactile Sensing</title>
+      <link>http://localhost:1313/projects/tactile_sensing/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/tactile_sensing/</guid>
+      <description>Inspired by the remarkable capabilities of human touch, researchers have been developing artificial tactile sensing systems to imbue machines with similar capabilities. These systems aim to enable machines to interact with the environment in a more intuitive and sophisticated manner, opening up new possibilities for various fields, including robotics, prosthetics, healthcare, and human-machine interfaces.&#xA;We use data collected from the DIGIT optical tactile senor to perform object classification of different US coins: Pennys, Nickels, Dimes, and Quarters.</description>
+    </item>
+    <item>
+      <title>Malicious Twitter Usage: Repurposing Twitter Accounts</title>
+      <link>http://localhost:1313/projects/repurposing_twitter_accounts/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/repurposing_twitter_accounts/</guid>
+      <description>Twitter accounts are frequency sold, contrary to Twitter Usage Policy which dictates that this practice is not allowed. Using historical data of Twitter accounts, accounts which were repurposed were identified and provided as examples and proof to this practice. The malicious nature of these sales were also cited. I worked as a part of a two person team to complete this project.&#xA;(Full Paper) </description>
+    </item>
+    <item>
+      <title>IoT Livestock Monitoring</title>
+      <link>http://localhost:1313/projects/livestock_monitoring/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/livestock_monitoring/</guid>
+      <description>I worked to survey proposed IoT systems used for livestock monitoring. In this report, we focused on health monitoring systems specifically for dairy cows. There are around 9.1 to 9.4 million dairy cows in the U.S. alone, and having a system that allows farmers to monitor and track the health and behavior of their dairy cows would improve the efficiency and profitability of dairy farms.&#xA;(Full Paper) </description>
+    </item>
+    <item>
+      <title>Minimal DNS Spoofer</title>
+      <link>http://localhost:1313/projects/dns_spoofer/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/dns_spoofer/</guid>
+      <description>I implemented a minimal DNS spoofer daemon in Python using standard POSIX functions that listens on the DNS port for A record requests and returns a hard-coded IP address of 6.6.6.6. This project includes a Makefile in order to start the daemon and the daemon working on your laptop can be seen using the dig tool on Unix systems.&#xA;(Project Code) </description>
+    </item>
     <item>
       <title>OFDM Implementation Across SDRs</title>
-      <link>https://pranavi.space/projects/ofdm/</link>
+      <link>http://localhost:1313/projects/ofdm/</link>
       <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/projects/ofdm/</guid>
-      <description>I implemented the OFDM algorithm across SDRs in three parts.
- OFDM algorithm across a simulated channel Frequency offset correction Phase offset correction and transmitted data using two USRPs  (Full Paper)</description>
+      <guid>http://localhost:1313/projects/ofdm/</guid>
+      <description>I implemented the OFDM algorithm across SDRs in three parts.&#xA;OFDM algorithm across a simulated channel Frequency offset correction Phase offset correction and transmitted data using two USRPs (Full Paper) </description>
     </item>
-    
     <item>
       <title>LC-3 Virtual Machine Implementation</title>
-      <link>https://pranavi.space/projects/virtual_machine/</link>
+      <link>http://localhost:1313/projects/virtual_machine/</link>
       <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/projects/virtual_machine/</guid>
-      <description>I built an LC-3 virtual machine implementation that can run .obj files on Linux/Unix systems in C.
-(Github Repository)</description>
+      <guid>http://localhost:1313/projects/virtual_machine/</guid>
+      <description>I built an LC-3 virtual machine implementation that can run .obj files on Linux/Unix systems in C.&#xA;(Github Repository) </description>
     </item>
-    
     <item>
       <title>4x4 MIMO Receiver Implementations</title>
-      <link>https://pranavi.space/projects/mimo4/</link>
+      <link>http://localhost:1313/projects/mimo4/</link>
       <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/projects/mimo4/</guid>
-      <description>I implemented two receivers for a 4x4 MIMO system.
- The system knows the channel properties The system does not know the channel properties.  The two receivers I implemented are the: MMSE decoder and the Singular Value Decomposition (SVD) algrithm in MATLAB. These systems were done in simulation with a provided simulated channel.
-(Full Paper)</description>
+      <guid>http://localhost:1313/projects/mimo4/</guid>
+      <description>I implemented two receivers for a 4x4 MIMO system.&#xA;The system knows the channel properties The system does not know the channel properties. The two receivers I implemented are the: MMSE decoder and the Singular Value Decomposition (SVD) algrithm in MATLAB. These systems were done in simulation with a provided simulated channel.&#xA;(Full Paper) </description>
     </item>
-    
     <item>
       <title>2x2 MIMO Receiver Implementations</title>
-      <link>https://pranavi.space/projects/mimo2/</link>
+      <link>http://localhost:1313/projects/mimo2/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/projects/mimo2/</guid>
-      <description>I implemented two receivers for a 2x2 MIMO system: zero-forcing receiver, MMSE decoder in MATLAB. These systems were done in simulation with a provided simulated channel.
-(Full Paper)</description>
+      <guid>http://localhost:1313/projects/mimo2/</guid>
+      <description>I implemented two receivers for a 2x2 MIMO system: zero-forcing receiver, MMSE decoder in MATLAB. These systems were done in simulation with a provided simulated channel.&#xA;(Full Paper) </description>
     </item>
-    
     <item>
       <title>Complete Communications System Modeling Using BPSK</title>
-      <link>https://pranavi.space/projects/bpsk/</link>
+      <link>http://localhost:1313/projects/bpsk/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/projects/bpsk/</guid>
+      <guid>http://localhost:1313/projects/bpsk/</guid>
       <description>I leveraged introductory-level skills in analog-digital communication (ADC) to design an end-to-end communication system in Simulink. The Simulink model of the system was used to then select appropriate physical components and understand a potential hardware implementation. The ADC system model was designed to use Binary Phase Shift Keying (BPSK) as the modulation scheme and optimized to fit within a handful of real-world constraints including power limitations, transmission rate, error rate, and availability of components for the hardware implementation.</description>
     </item>
-    
     <item>
       <title>Game Controller Design</title>
-      <link>https://pranavi.space/projects/microcontrollers/</link>
+      <link>http://localhost:1313/projects/microcontrollers/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/projects/microcontrollers/</guid>
+      <guid>http://localhost:1313/projects/microcontrollers/</guid>
       <description>With the rising popularity of lifestyle video games and lack of game consoles on the market during this pandemic, I created a USB powered game controller that could interface with the popular game: Stardew Valley. This project was made as a part of a project-based microcontrollers class offered in the fall of 2020. This was a semester long class where I exercised and grew my skills in KiCAD to iteratively design schematics, layout PCBs, electrical and firmware system design, and part sourcing.</description>
     </item>
-    
     <item>
       <title>Analog Multiplier</title>
-      <link>https://pranavi.space/projects/analog_multiplier/</link>
+      <link>http://localhost:1313/projects/analog_multiplier/</link>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/projects/analog_multiplier/</guid>
-      <description>I designed and implemented a 4-bit multiplier using CMOS transistors in LTSpice. As a part of this project, tests for different logic gates and the multiplicities of the nMOS and pMOS transistors were optimized to ensure that the gates were outputting strong logical highs and lows.
-These logic gates were used to construct a 1-bit full adder, a 4-bit full adder, and then a 4-bit multiplier. The voltage transfer characteristics and propogation delays at each step were calculated to estimate the fastest clock speed possible for the system.</description>
+      <guid>http://localhost:1313/projects/analog_multiplier/</guid>
+      <description>I designed and implemented a 4-bit multiplier using CMOS transistors in LTSpice. As a part of this project, tests for different logic gates and the multiplicities of the nMOS and pMOS transistors were optimized to ensure that the gates were outputting strong logical highs and lows.&#xA;These logic gates were used to construct a 1-bit full adder, a 4-bit full adder, and then a 4-bit multiplier. The voltage transfer characteristics and propogation delays at each step were calculated to estimate the fastest clock speed possible for the system.</description>
     </item>
-    
     <item>
       <title>Designing Tools For Safe Consumption Site Advocates</title>
-      <link>https://pranavi.space/projects/uocd/</link>
+      <link>http://localhost:1313/projects/uocd/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/projects/uocd/</guid>
-      <description>I worked with safe consumption site advocates in the Boston area to design a tool that could potentially revolutionize the current state of safe consumption sites in the U.S. today. This project was done in a team of four and over a semester through a user oriented collaborative design class.
-The severity of the opioid epidemic today was shocking to see and we all really wanted to do something about it.</description>
+      <guid>http://localhost:1313/projects/uocd/</guid>
+      <description>I worked with safe consumption site advocates in the Boston area to design a tool that could potentially revolutionize the current state of safe consumption sites in the U.S. today. This project was done in a team of four and over a semester through a user oriented collaborative design class.&#xA;The severity of the opioid epidemic today was shocking to see and we all really wanted to do something about it.</description>
     </item>
-    
     <item>
       <title>Single Cycle CPU Design and Implementation</title>
-      <link>https://pranavi.space/projects/cpu/</link>
+      <link>http://localhost:1313/projects/cpu/</link>
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/projects/cpu/</guid>
-      <description>I designed and implemented a MIPS compliant single cycle CPU. It used a 32-bit architecture. This CPU is capable of completing the following assembly commands:
- load word store word add add immediate subtract set less than xor immediate jump register jump and link jump branch equal branch not equal  I worked on this project individually over the course of 2 weeks as a part of the computer architecture class.</description>
+      <guid>http://localhost:1313/projects/cpu/</guid>
+      <description>I designed and implemented a MIPS compliant single cycle CPU. It used a 32-bit architecture. This CPU is capable of completing the following assembly commands:&#xA;load word store word add add immediate subtract set less than xor immediate jump register jump and link jump branch equal branch not equal I worked on this project individually over the course of 2 weeks as a part of the computer architecture class.&#xA;For more information, click the read more button to the left.</description>
     </item>
-    
     <item>
       <title>Personable Robot</title>
-      <link>https://pranavi.space/projects/poe/</link>
+      <link>http://localhost:1313/projects/poe/</link>
       <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/projects/poe/</guid>
-      <description>As a part of a principles of engineering class, I built a small, personable robot that wandered the halls of Olin College&#39;s academic center and said hi to people. This was done as a part of a 4 person team over half a semester. My personal contributions were firmware, and programming how the robot would react to its surroundings. I also used agile scrum to serve as the project planner (Full Paper)</description>
+      <guid>http://localhost:1313/projects/poe/</guid>
+      <description>As a part of a principles of engineering class, I built a small, personable robot that wandered the halls of Olin College&amp;rsquo;s academic center and said hi to people. This was done as a part of a 4 person team over half a semester. My personal contributions were firmware, and programming how the robot would react to its surroundings. I also used agile scrum to serve as the project planner (Full Paper) </description>
     </item>
-    
     <item>
       <title>Mental Health Conscious Scheduling Application</title>
-      <link>https://pranavi.space/projects/autem/</link>
+      <link>http://localhost:1313/projects/autem/</link>
       <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/projects/autem/</guid>
+      <guid>http://localhost:1313/projects/autem/</guid>
       <description>Many college students and people in the workforce are pushing themselves in this never ending rat race which can be a huge detriment to their mental health. Olin likes to use the term &amp;ldquo;overscoping your life&amp;rdquo; to describe this phenomenon. This application aims to help people avoid this by using the premise that people are actually more likely to be productive when they take breaks and complete activities that make themselves happy.</description>
     </item>
-    
     <item>
       <title>VLSI Circuit Optimization Using Discrete Math</title>
-      <link>https://pranavi.space/projects/vlsi_optimization/</link>
+      <link>http://localhost:1313/projects/vlsi_optimization/</link>
       <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/projects/vlsi_optimization/</guid>
-      <description>I looked into how to represent MOS transistor circuits as logic graphs and implemented an algorithm to simplify these logic graphs. This allows the MOS transistor layouts in silicon to be optimized. (Full Paper)</description>
+      <guid>http://localhost:1313/projects/vlsi_optimization/</guid>
+      <description>I looked into how to represent MOS transistor circuits as logic graphs and implemented an algorithm to simplify these logic graphs. This allows the MOS transistor layouts in silicon to be optimized. (Full Paper) </description>
     </item>
-    
     <item>
       <title>Assembly Chrome Dinosaur Game</title>
-      <link>https://pranavi.space/projects/assembly_chrome_dinosaur/</link>
+      <link>http://localhost:1313/projects/assembly_chrome_dinosaur/</link>
       <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/projects/assembly_chrome_dinosaur/</guid>
-      <description>I designed and built a preliminary version of a game inspired by the chrome dinosaur game written in MIPS assembly. The entire game can be exported to 32-bit binary instructions that can be run on the single cycle cpu built in verilog as a part of another project.
-The functionality the game holds is:
- user jumps over cacti using the keyboard game ends if user comes into contact with cactus speed of cactus generation increases with play time  (Full Paper)</description>
+      <guid>http://localhost:1313/projects/assembly_chrome_dinosaur/</guid>
+      <description>I designed and built a preliminary version of a game inspired by the chrome dinosaur game written in MIPS assembly. The entire game can be exported to 32-bit binary instructions that can be run on the single cycle cpu built in verilog as a part of another project.&#xA;The functionality the game holds is:&#xA;user jumps over cacti using the keyboard game ends if user comes into contact with cactus speed of cactus generation increases with play time (Full Paper) </description>
     </item>
-    
     <item>
       <title>Political Candidate Summaries From Twitter</title>
-      <link>https://pranavi.space/projects/twitter_scraping/</link>
+      <link>http://localhost:1313/projects/twitter_scraping/</link>
       <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/projects/twitter_scraping/</guid>
-      <description>As there were many presedential candidates in the beginning of the 2020 presidential election, it was hard to keep up with what everyone was saying and what everyone stood for individually. Acknowledging that twitter had become the most common form of political communication directly from candidates, I gathered tweets and picked out the words that were most associated with each candidate.
-(Full Paper)</description>
+      <guid>http://localhost:1313/projects/twitter_scraping/</guid>
+      <description>As there were many presedential candidates in the beginning of the 2020 presidential election, it was hard to keep up with what everyone was saying and what everyone stood for individually. Acknowledging that twitter had become the most common form of political communication directly from candidates, I gathered tweets and picked out the words that were most associated with each candidate.&#xA;(Full Paper) </description>
     </item>
-    
     <item>
       <title>Dance Move Recognition Using the Fourier Transform</title>
-      <link>https://pranavi.space/projects/not_just_dance/</link>
+      <link>http://localhost:1313/projects/not_just_dance/</link>
       <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/projects/not_just_dance/</guid>
-      <description>A partner and I created a game where a user completes certain dance moves after we show them what to complete, and we score them on how well they dance and check if they are dancing the correct move. This algorithm uses:
- accelerometer data FFT cross correlation signal aligning techniques  To read more about the algorithm and how the game works, click the link to the left.
-(Full Paper)</description>
+      <guid>http://localhost:1313/projects/not_just_dance/</guid>
+      <description>A partner and I created a game where a user completes certain dance moves after we show them what to complete, and we score them on how well they dance and check if they are dancing the correct move. This algorithm uses:&#xA;accelerometer data FFT cross correlation signal aligning techniques To read more about the algorithm and how the game works, click the link to the left.&#xA;(Full Paper) </description>
     </item>
-    
     <item>
       <title>BCI Spatial Filtering Algorithms</title>
-      <link>https://pranavi.space/projects/bci_filtering_algorithms/</link>
+      <link>http://localhost:1313/projects/bci_filtering_algorithms/</link>
       <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/projects/bci_filtering_algorithms/</guid>
-      <description>As a part of my topics in bioengineering class, I took a deep dive into problems with EEG based brain computer interfaces. A huge issue is the artifacts that are created and lower than ideal spatial resolution. I researched ICA, CSP, and other spatial filters. (Full Paper)</description>
+      <guid>http://localhost:1313/projects/bci_filtering_algorithms/</guid>
+      <description>As a part of my topics in bioengineering class, I took a deep dive into problems with EEG based brain computer interfaces. A huge issue is the artifacts that are created and lower than ideal spatial resolution. I researched ICA, CSP, and other spatial filters. (Full Paper) </description>
     </item>
-    
     <item>
       <title>Implementing Differential Drive on NEATO Robots</title>
-      <link>https://pranavi.space/projects/differential_drive/</link>
+      <link>http://localhost:1313/projects/differential_drive/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/projects/differential_drive/</guid>
-      <description>I used the concept of differential drive to command a NEATO across a bridge that can be defined by a parametric curve function. I used ROS in order to send velocity commands to the NEATOs.
-To learn more about the math behind it and the errors between what actually happened and what was projected to happen click the link on the left.
-To watch a video of this in action: (Video Link)</description>
+      <guid>http://localhost:1313/projects/differential_drive/</guid>
+      <description>I used the concept of differential drive to command a NEATO across a bridge that can be defined by a parametric curve function. I used ROS in order to send velocity commands to the NEATOs.&#xA;To learn more about the math behind it and the errors between what actually happened and what was projected to happen click the link on the left.&#xA;To watch a video of this in action: (Video Link) (Full Paper) </description>
     </item>
-    
     <item>
       <title>Boat Design For Specific Angle of Vanishing Stability</title>
-      <link>https://pranavi.space/projects/boats/</link>
+      <link>http://localhost:1313/projects/boats/</link>
       <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/projects/boats/</guid>
-      <description>I designed a mathematically defined boat to calculate its angle of vanishing stability. This project involved CAD for designing the physical ribs of the boats, laser cutting, shrink wrapping, and mechanical testing. All calculations were done in mathematica and CAD models were created using SolidWorks. (Full Paper)</description>
+      <guid>http://localhost:1313/projects/boats/</guid>
+      <description>I designed a mathematically defined boat to calculate its angle of vanishing stability. This project involved CAD for designing the physical ribs of the boats, laser cutting, shrink wrapping, and mechanical testing. All calculations were done in mathematica and CAD models were created using SolidWorks. (Full Paper) </description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://pranavi.space/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/about/</guid>
-      <description>Embedded platforms engineer interested in the intersection of hardware, software, and wireless communications systems.
- EE+CS at Olin College of Engineering Class of &amp;lsquo;22 Incoming M.S. EE Candidate at Stanford University Research lead in the NSF-Funded OSSTP Group Clare Boothe Luce + Massachusetts Space Grant recipient Founding partner of the student-led venture capital firm 248 Builders  </description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Engineer interested in the intersection of signal processing, and software.&#xA;Stanford M.S. EE at Stanford University Class of &amp;lsquo;24 EE+CS at Olin College of Engineering Class of &amp;lsquo;22 Ex-Research lead in the NSF-Funded OSSTP Group Clare Boothe Luce + Massachusetts Space Grant recipient </description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://pranavi.space/thankyou/</link>
+      <link>http://localhost:1313/thankyou/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/thankyou/</guid>
-      <description>Thank you for reaching out! I&#39;ll get back to you soon at the email you have provided.</description>
+      <guid>http://localhost:1313/thankyou/</guid>
+      <description>Thank you for reaching out! I&amp;rsquo;ll get back to you soon at the email you have provided.</description>
     </item>
-    
     <item>
       <title>ASL Detection</title>
-      <link>https://pranavi.space/projects/asl_detection/</link>
+      <link>http://localhost:1313/projects/asl_detection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pranavi.space/projects/asl_detection/</guid>
-      <description>I implemented SVD and PCA to translate sign language letters using a large training data set. The algorithm was written to allow the user to type in a word. Then, it picks a random image of each letter, translates those images, and outputs the final word. (Full Paper)</description>
+      <guid>http://localhost:1313/projects/asl_detection/</guid>
+      <description>I implemented SVD and PCA to translate sign language letters using a large training data set. The algorithm was written to allow the user to type in a word. Then, it picks a random image of each letter, translates those images, and outputs the final word. (Full Paper) </description>
     </item>
-    
   </channel>
 </rss>

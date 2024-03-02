@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Compression, Testing on Pranavi Boyalakuntla</title>
+    <link>http://localhost:1313/tags/data-compression-testing/</link>
+    <description>Recent content in Data Compression, Testing on Pranavi Boyalakuntla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/data-compression-testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LZ77 Optimization and Testing</title>
+      <link>http://localhost:1313/projects/data_compression/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/data_compression/</guid>
+      <description>We optimized the LZ77 implementation on SCL. LZ77 is the basis for some of the most widely used compressors (gzip, zstd), but the current implementation on SCL does not use repcodes and uses Huffman coding for entropy coding. We believe with the addition of a basic repcode and by changing the entropy coding to rANS, tANS, or Arithmetic coding we will see an improved data compression rate. The following variations of the LZ77 compressor will be implemented: original SCL implementation, variation with rANS coding, variation with tANS coding, variation with Arithmetic coding, variation with repcodes, variation with repcodes and rANS coding, variation with repcodes and tANS coding, and variation with repcodes and Arithmetic coding.</description>
+    </item>
+  </channel>
+</rss>

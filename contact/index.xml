@@ -6,9 +6,6 @@
     <description>Recent content in Contact Links on Pranavi Boyalakuntla</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="https://pranavi.space/contact/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://pranavi.space/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

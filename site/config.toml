@@ -8,8 +8,8 @@ theme = "hugo-theme-console"
   url = "projects/"
   
   [[params.navlinks]]
-  name = "blog/"
-  url = "blog/"
+  name = "publications/"
+  url = "publications/"
 
   [[params.navlinks]]
   name = "resume/"

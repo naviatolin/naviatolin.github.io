@@ -7,19 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://pranavi.space/tags/python-web-scraping/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://pranavi.space/tags/python-web-scraping/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Political Candidate Summaries From Twitter</title>
       <link>https://pranavi.space/projects/twitter_scraping/</link>
       <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://pranavi.space/projects/twitter_scraping/</guid>
-      <description>As there were many presedential candidates in the beginning of the 2020 presidential election, it was hard to keep up with what everyone was saying and what everyone stood for individually. Acknowledging that twitter had become the most common form of political communication directly from candidates, I gathered tweets and picked out the words that were most associated with each candidate.
-(Full Paper)</description>
+      <description>As there were many presedential candidates in the beginning of the 2020 presidential election, it was hard to keep up with what everyone was saying and what everyone stood for individually. Acknowledging that twitter had become the most common form of political communication directly from candidates, I gathered tweets and picked out the words that were most associated with each candidate.&#xA;(Full Paper) </description>
     </item>
-    
   </channel>
 </rss>

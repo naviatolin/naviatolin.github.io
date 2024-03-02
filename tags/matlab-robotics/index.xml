@@ -7,20 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://pranavi.space/tags/matlab-robotics/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://pranavi.space/tags/matlab-robotics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Implementing Differential Drive on NEATO Robots</title>
       <link>https://pranavi.space/projects/differential_drive/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://pranavi.space/projects/differential_drive/</guid>
-      <description>I used the concept of differential drive to command a NEATO across a bridge that can be defined by a parametric curve function. I used ROS in order to send velocity commands to the NEATOs.
-To learn more about the math behind it and the errors between what actually happened and what was projected to happen click the link on the left.
-To watch a video of this in action: (Video Link)</description>
+      <description>I used the concept of differential drive to command a NEATO across a bridge that can be defined by a parametric curve function. I used ROS in order to send velocity commands to the NEATOs.&#xA;To learn more about the math behind it and the errors between what actually happened and what was projected to happen click the link on the left.&#xA;To watch a video of this in action: (Video Link) (Full Paper) </description>
     </item>
-    
   </channel>
 </rss>

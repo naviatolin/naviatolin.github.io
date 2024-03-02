@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python, Networking on Pranavi Boyalakuntla</title>
+    <link>https://pranavi.space/tags/python-networking/</link>
+    <description>Recent content in Python, Networking on Pranavi Boyalakuntla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://pranavi.space/tags/python-networking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minimal DNS Spoofer</title>
+      <link>https://pranavi.space/projects/dns_spoofer/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://pranavi.space/projects/dns_spoofer/</guid>
+      <description>I implemented a minimal DNS spoofer daemon in Python using standard POSIX functions that listens on the DNS port for A record requests and returns a hard-coded IP address of 6.6.6.6. This project includes a Makefile in order to start the daemon and the daemon working on your laptop can be seen using the dig tool on Unix systems.&#xA;(Project Code) </description>
+    </item>
+  </channel>
+</rss>

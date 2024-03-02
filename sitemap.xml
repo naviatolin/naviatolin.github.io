@@ -5,7 +5,105 @@
         
         <url>
             <loc>https://pranavi.space/</loc>
-            <lastmod>2021-05-16T00:00:00+00:00</lastmod>
+            <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://pranavi.space/tags/data-compression-testing/</loc>
+            <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://pranavi.space/projects/data_compression/</loc>
+            <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://pranavi.space/projects/</loc>
+            <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://pranavi.space/tags/</loc>
+            <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://pranavi.space/projects/active_noise_cancellation_iphone/</loc>
+            <lastmod>2023-05-03T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://pranavi.space/tags/c&#43;&#43;-active-noise-cancellation/</loc>
+            <lastmod>2023-05-03T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://pranavi.space/projects/tactile_sensing/</loc>
+            <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://pranavi.space/tags/transfer-learning-tactile-sensing/</loc>
+            <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://pranavi.space/tags/cybersecurity-twitter/</loc>
+            <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://pranavi.space/projects/repurposing_twitter_accounts/</loc>
+            <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://pranavi.space/projects/livestock_monitoring/</loc>
+            <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://pranavi.space/tags/iot-networks/</loc>
+            <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://pranavi.space/projects/dns_spoofer/</loc>
+            <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://pranavi.space/tags/python-networking/</loc>
+            <lastmod>2022-04-08T00:00:00+00:00</lastmod>
         </url>
         
     
@@ -18,21 +116,7 @@
     
         
         <url>
-            <loc>https://pranavi.space/projects/</loc>
-            <lastmod>2021-05-16T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
             <loc>https://pranavi.space/tags/sdr-ofdm/</loc>
-            <lastmod>2021-05-16T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://pranavi.space/tags/</loc>
             <lastmod>2021-05-16T00:00:00+00:00</lastmod>
         </url>
         
@@ -271,26 +355,18 @@
         
         <url>
             <loc>https://pranavi.space/about/</loc>
-            <priority>0</priority>
         </url>
         
     
         
         <url>
             <loc>https://pranavi.space/thankyou/</loc>
-            <priority>0</priority>
         </url>
         
     
         
         <url>
             <loc>https://pranavi.space/projects/asl_detection/</loc>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://pranavi.space/blog/</loc>
         </url>
         
     
@@ -309,6 +385,12 @@
         
         <url>
             <loc>https://pranavi.space/tags/matlab-svd-pca/</loc>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://pranavi.space/publications/</loc>
         </url>
         
     
