@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Radar, DSP on Pranavi Boyalakuntla</title>
+    <link>http://localhost:1313/tags/radar-dsp/</link>
+    <description>Recent content in Radar, DSP on Pranavi Boyalakuntla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/radar-dsp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Review and Partial Reproduction of Huber et al.’s “A Novel Digital Beam-Forming Concept for Spaceborne Reflector SAR Systems”</title>
+      <link>http://localhost:1313/projects/huber_et_all_reproduction/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/huber_et_all_reproduction/</guid>
+      <description>Huber et al. propose a new digital beam-forming radar concept and a new digital signal processing approach in the paper “A Novel Digital Beam-Forming Concept for Spaceborne Reflector SAR Systems”. They propose new sensor architecture in the form of a reflector and a digital feed array where historically planar phased antenna array systems were used for spaceborn SAR. They also propose a new digital signal processing technique using the signal properties of the transmitted waveform.</description>
+    </item>
+  </channel>
+</rss>

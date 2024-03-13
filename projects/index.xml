@@ -6,8 +6,15 @@
     <description>Recent content in Projects on Pranavi Boyalakuntla</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://pranavi.space/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Review and Partial Reproduction of Huber et al.’s “A Novel Digital Beam-Forming Concept for Spaceborne Reflector SAR Systems”</title>
+      <link>https://pranavi.space/projects/huber_et_all_reproduction/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pranavi.space/projects/huber_et_all_reproduction/</guid>
+      <description>Huber et al. propose a new digital beam-forming radar concept and a new digital signal processing approach in the paper “A Novel Digital Beam-Forming Concept for Spaceborne Reflector SAR Systems”. They propose new sensor architecture in the form of a reflector and a digital feed array where historically planar phased antenna array systems were used for spaceborn SAR. They also propose a new digital signal processing technique using the signal properties of the transmitted waveform.</description>
+    </item>
     <item>
       <title>LZ77 Optimization and Testing</title>
       <link>https://pranavi.space/projects/data_compression/</link>
