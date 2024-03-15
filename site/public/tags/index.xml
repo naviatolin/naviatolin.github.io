@@ -9,10 +9,10 @@
     <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Radar</title>
-      <link>http://localhost:1313/tags/radar/</link>
+      <title>Radar, DSP</title>
+      <link>http://localhost:1313/tags/radar-dsp/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/radar/</guid>
+      <guid>http://localhost:1313/tags/radar-dsp/</guid>
       <description></description>
     </item>
     <item>
@@ -20,6 +20,13 @@
       <link>http://localhost:1313/tags/data-compression-testing/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/data-compression-testing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Audio Codec</title>
+      <link>http://localhost:1313/tags/audio-codec/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/audio-codec/</guid>
       <description></description>
     </item>
     <item>

@@ -6,8 +6,15 @@
     <description>Recent content on Pranavi Boyalakuntla</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perceptual Audio Codec</title>
+      <link>http://localhost:1313/projects/perceptual_audio_codec/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/perceptual_audio_codec/</guid>
+      <description>In this project, we created an audio codec to improve the audio quality for low bit rates (96 kbps and 128 kbps) by implementing transient detection and block switching. Transient detection and block switching should help us remove the presence of pre-echo in the transient blocks which was the most noticeable artifact present in our original coder. Since block switching and transient detection can be quite bit demanding, we attempted to implement different entropy coders (Huffman coding and Arithmetic coding) to reduce the number of bits needed to encode our audio files.</description>
+    </item>
     <item>
       <title>A Review and Partial Reproduction of Huber et al.’s “A Novel Digital Beam-Forming Concept for Spaceborne Reflector SAR Systems”</title>
       <link>http://localhost:1313/projects/huber_et_all_reproduction/</link>

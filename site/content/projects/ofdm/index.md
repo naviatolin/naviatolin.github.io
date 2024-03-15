@@ -11,3 +11,4 @@ I implemented the OFDM algorithm across SDRs in three parts.
 - Phase offset correction and transmitted data using two USRPs
 
  [(Full Paper)](https://www.notion.so/navinavi/OFDM-Across-SDRs-e67af6e9959f4e54bbdcee513ee8cc82)
+
