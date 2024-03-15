@@ -10,4 +10,4 @@ In this project, we created an audio codec to improve the audio quality for low 
 
 [(Paper)](https://github.com/Audrey-Lee88/Perceptual_Audio_Codec/blob/main/paper/MUSIC422_Final_Report.pdf)
 
-[(Code)] (https://github.com/Audrey-Lee88/Perceptual_Audio_Codec/tree/main)
+[(Code)](https://github.com/Audrey-Lee88/Perceptual_Audio_Codec/tree/main)
